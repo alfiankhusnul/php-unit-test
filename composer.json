@@ -1,0 +1,12 @@
+{
+    "name": "alfiankhusnul/php-unit-test",
+    "description": "Belajar PHP Unit Test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alfian Khusnul Amar",
+            "email": "alfiankhusnul@gmail.com"
+        }
+    ],
+    "require": {}
+}
