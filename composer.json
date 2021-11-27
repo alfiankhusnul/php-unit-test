@@ -13,5 +13,15 @@
     },
     "require-dev": {
         "phpunit/phpunit" : "9.5.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "AlfianKhusnul\\Test\\" : "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AlfianKhusnul\\Test\\" : "tests/"
+        }
     }
 }
